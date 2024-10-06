@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8faf9e80-542f-4a67-9c59-ea90b3b67e4c" name="Changes" comment="" />
+    <list default="true" id="8faf9e80-542f-4a67-9c59-ea90b3b67e4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab1/CheckLabConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/Collatz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/GetEnvironmentVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/HelloNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/HelloWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2n3dGvXVONtwgsmgOmohl8j5SJX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,9 +29,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/programming/JSDVN/CS61B-Student-sp21-s128",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programming\JSDVN\CS61B-Student-sp21-s128" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728205600931</updated>
       <workItem from="1728205602155" duration="2000" />
+      <workItem from="1728205728889" duration="132000" />
     </task>
     <servers />
   </component>
